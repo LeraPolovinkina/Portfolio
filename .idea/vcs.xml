@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2048" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bullethell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pacman" vcs="Git" />
+  </component>
+</project>
